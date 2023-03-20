@@ -80,6 +80,9 @@ html {
 
   font-size: 62.5%;
   overflow-x: hidden;
+
+  /* Might not work in all browsers (e.g. Safari) */
+  /* scroll-behavior: smooth; */
 }
 
 body {
